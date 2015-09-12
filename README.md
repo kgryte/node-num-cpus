@@ -58,6 +58,39 @@ $ node ./examples/index.js
 ```
 
 
+---
+## CLI
+
+
+### Installation
+
+To use the module as a general utility, install the module globally
+
+``` bash
+$ npm install -g num-cpus
+```
+
+
+### Usage
+
+``` bash
+Usage: numcpus [options]
+
+Options:
+
+  -h,    --help                Print this message.
+  -V,    --version             Print the package version.
+```
+
+
+### Examples
+
+``` bash
+$ numcpus
+# <number>
+```
+
+---
 ## Tests
 
 ### Unit
