@@ -1,6 +1,6 @@
 {
   "name": "num-cpus",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns the number of CPUs.",
   "author": {
     "name": "Athan Reines",
